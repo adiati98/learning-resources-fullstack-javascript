@@ -1,10 +1,16 @@
-# Resources — Fullstack Javascript
+# Learning Resources — Fullstack Javascript
 
+Hi there! 👋
+
+I'm Ayu, a self-taught fullstack developer leaning towards frontend, in case you notice that most of resources here are about frontend 😄.
+<br>
 In this compilation, I only list the resources that I personally took and use myself.
 <br>
-I believe there are plenty of other great resources.
-<br>
-Feel free to add what resources that you've done and love in the comment 😄
+Thank you for coming by! 💖
+
+👉 *This repo is still a work in progress.* 👈
+
+<hr>
 
 ## 📺 Watch
 
@@ -20,11 +26,13 @@ Feel free to add what resources that you've done and love in the comment 😄
 ### CSS
 
 - [Advanced CSS and Sass: Flexbox, Grid, Animations and More! — Jonas Schmedmann](https://www.udemy.com/course/advanced-css-and-sass/)
+- [CSS Grid — Wes Bos](https://cssgrid.io/)
 
 ### Javascript
 
 - [The Modern Javascript Bootcamp Course (2022) — Colt Steele](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
 - [JavaScript: Understanding the Weird Parts — Anthony Alicea](https://www.udemy.com/course/understand-javascript/)
+- [Javascript 30 — Wes Bos](https://javascript30.com/)
 - [Watch and Code — Gordon Zhu](https://watchandcode.com/)
 
 ### React
@@ -34,19 +42,27 @@ Feel free to add what resources that you've done and love in the comment 😄
 - [React - The Complete Guide (incl Hooks, React Router, Redux) — Maximilian Schwarzmüller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 ### VueJS
+
 - [Vue Mastery](https://www.vuemastery.com/)
-- [Build Web Apps with Vue JS 3 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
+- [Build Web Apps with Vue JS 3 & Firebase — The Net Ninja](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
 
 ### NodeJS, Express & MongoDB
+
 - [The Complete Node.js Developer Course (3rd Edition) — Andrew Mead](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
 ## 📚 Read
 
 ### Web Development
+
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [CSS Tricks](https://css-tricks.com/)
-- [Deep Dive Into Modern Web Development — Full Stack Open](https://fullstackopen.com/en/)
+- [DEV](https://dev.to/)
+- [Hashnode](https://hashnode.com/)
+- [CodeNewbie](https://community.codenewbie.org/)
+- [freeCodeCamp](https://www.freecodecamp.org/news/tag/blog/)
 - [Flavio Copes](https://flaviocopes.com/)
+- [Digital Ocean Community Tutorials](https://www.digitalocean.com/community/tutorials)
+- [Deep Dive Into Modern Web Development — Full Stack Open](https://fullstackopen.com/en/)
 
 ### HTML
 
@@ -59,5 +75,95 @@ Feel free to add what resources that you've done and love in the comment 😄
 ### Javascript
 
 - [Just JavaScript — Dan Abramov & Maggie Appleton](https://justjavascript.com/)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [Digital Ocean Community](https://www.digitalocean.com/community/tutorials)
+- [Javascript.info — The Modern JavaScript Tutorial](https://javascript.info/)
+
+### Git/GitHub
+
+- [Atlassian](https://www.atlassian.com/git/tutorials)
+
+## 📺📚 Learning By Doing & Game Based
+
+### Web Development
+
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [Scrimba](https://scrimba.com/)
+
+### CSS
+
+- [Flexbox Zombies — Mastery Games](https://mastery.games/post/flexboxzombies2/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+
+### React
+
+- [Learn React — Bob Ziroll](https://scrimba.com/learn/learnreact)
+
+### Git/GitHub
+
+- [GitHub Learning Lab](https://lab.github.com/)
+
+## 🛠 Tools
+
+### ✍ Online Code Playground
+
+- [CodeSandbox](https://codesandbox.io/)
+- [CodePen](https://codepen.io/)
+
+### ♿ Accessibility
+
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+- [axe Tools](https://www.deque.com/axe/)
+- [NVDA — Screenreader for Windows](https://www.nvaccess.org/download/)
+
+## ✨ Other Resources
+
+### ✏ Test Your Knowledge
+
+#### Front-end
+
+- [Frontend Mentor](https://www.frontendmentor.io/)
+
+#### Data & Algorithm
+
+- [Codewars](https://www.codewars.com/)
+
+### 💪 Mentorship & Project Collaboration
+
+- [The Collab Lab](https://the-collab-lab.codes/)
+- [Coding Coach](https://codingcoach.io/)
+
+### 👥 Community
+
+- [Virtual Coffee](https://virtualcoffee.io/)
+- [The Collab Lab](https://the-collab-lab.codes/)
+- [DEV Community](https://dev.to/)
+- [CodeNewbie Community](https://community.codenewbie.org/)
+- [Hashnode](https://hashnode.com/)
+- [Women Who Code](https://www.womenwhocode.com/)
+
+### 👇 YouTube
+
+- [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
+- [Kevin Powell](https://www.youtube.com/kepowob)
+- [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+- [James Q Quick](https://www.youtube.com/c/JamesQQuick)
+- [Dev Ed](https://www.youtube.com/c/DevEd/)
+- [Code with Ania Kubów](https://www.youtube.com/c/AniaKub%C3%B3w)
+- [Codevolution](https://www.youtube.com/c/Codevolution)
+- [Jack Herrington](https://www.youtube.com/c/JackHerrington)
+
+### 📻 Podcast
+
+- [Virtual Coffee Podcast](https://virtualcoffee.io/podcast/)
+- [CodeNewbie](https://community.codenewbie.org/pod)
+- [DEV](https://dev.to/pod)
+- [Syntax.](https://syntax.fm/)
+- [Compressed.fm](https://www.compressed.fm/)
+- [The Scrimba Podcast](https://scrimba.com/podcast/)
+
+### 📰 Newsletter
+
+- [Yet Another Newsletter LOL — Nick Taylor](https://buttondown.email/nickytonline/)
+- [Awesome Developer Diaries — Victoria Lo & Megha Pathak](https://buttondown.email/awesomedeveloperdiaries)
