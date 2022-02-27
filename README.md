@@ -50,6 +50,8 @@ Thank you for coming by! 💖
 
 - [The Complete Node.js Developer Course (3rd Edition) — Andrew Mead](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
+<hr>
+
 ## 📚 Read
 
 ### Web Development
@@ -81,6 +83,8 @@ Thank you for coming by! 💖
 
 - [Atlassian](https://www.atlassian.com/git/tutorials)
 
+<hr>
+
 ## 📺📚 Learning By Doing & Game Based
 
 ### Web Development
@@ -101,6 +105,8 @@ Thank you for coming by! 💖
 
 - [GitHub Learning Lab](https://lab.github.com/)
 
+<hr>
+
 ## 🛠 Tools
 
 ### ✍ Online Code Playground
@@ -114,6 +120,8 @@ Thank you for coming by! 💖
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 - [axe Tools](https://www.deque.com/axe/)
 - [NVDA — Screenreader for Windows](https://www.nvaccess.org/download/)
+
+<hr>
 
 ## ✨ Other Resources
 
