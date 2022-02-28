@@ -66,6 +66,7 @@ Thank you for coming by! 💖
 - [freeCodeCamp](https://www.freecodecamp.org/news/tag/blog/)
 - [Flavio Copes](https://flaviocopes.com/)
 - [Digital Ocean Community Tutorials](https://www.digitalocean.com/community/tutorials)
+- [Full-Stack Web Dev Bootcamp — Flavio Copes](https://bootcamp.dev/)
 - [Deep Dive Into Modern Web Development — Full Stack Open](https://fullstackopen.com/en/)
 
 ### HTML
