@@ -2,13 +2,15 @@
 
 Hi there! 👋
 
-I'm Ayu, a self-taught fullstack developer leaning towards frontend, in case you notice that most of resources here are about frontend 😄.
-<br>
-In this compilation, I only list the resources that I personally took and use myself.
+I'm [Ayu](https://github.com/adiati98), a self-taught full-stack developer leaning towards front-end 😄.
+
+In this compilation, I only list the resources that I took and use myself.
 <br>
 Thank you for coming by! 💖
 
-👉 *This repo is still a work in progress.* 👈
+<br>
+
+🚧 *This repo and list are always a work in progress.* 🚧
 
 <hr>
 
@@ -83,6 +85,10 @@ Thank you for coming by! 💖
 
 - [Atlassian](https://www.atlassian.com/git/tutorials)
 
+### VSCode
+
+- [VSCodeTips](https://community.vscodetips.com/)
+
 <hr>
 
 ## 📺📚 Learning By Doing & Game Based
@@ -149,7 +155,7 @@ Thank you for coming by! 💖
 - [Hashnode](https://hashnode.com/)
 - [Women Who Code](https://www.womenwhocode.com/)
 
-### 👇 YouTube
+### 👇 YouTube Channels
 
 - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
 - [Kevin Powell](https://www.youtube.com/kepowob)
