@@ -155,6 +155,8 @@ Thank you for coming by! 💖
 - [CodeNewbie Community](https://community.codenewbie.org/)
 - [Hashnode](https://hashnode.com/)
 - [Women Who Code](https://www.womenwhocode.com/)
+- [EddieHub](https://www.eddiehub.org/?r_done=1)
+- [Blogging For Devs](https://bloggingfordevs.com/)
 
 ### 👇 YouTube Channels
 
@@ -181,4 +183,4 @@ Thank you for coming by! 💖
 ### 📰 Newsletter
 
 - [Yet Another Newsletter LOL — Nick Taylor](https://buttondown.email/nickytonline/)
-- [Awesome Developer Diaries — Victoria Lo & Megha Pathak](https://buttondown.email/awesomedeveloperdiaries)
+- [rendezvous with cassidoo — Cassidy Williams](https://cassidoo.co/newsletter/)
